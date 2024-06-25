@@ -1,0 +1,64 @@
+AMOGH B 
+Bengaluru | Ph: +91 8884775445 | amogh-b@outlook.com | www.linkedin.com/in/amogh-b  
+  
+EMPLOYMENT 
+Data Science Mentor & Guest Faculty                                                                                                                   Mar 2024 – present 
+Statsparks Academy 
+• Developed and curated high-quality Data Science course materials, including lectures, hands-on projects, and assessments, 
+tailored to various learning levels and industry requirements. 
+• Designed and delivered comprehensive Data Science courses for both technical and non-technical students, enhancing their 
+proficiency in data analysis, machine learning, and statistical modeling. 
+ 
+Junior Software Developer - AI ML                                                                                                                     Oct 2023 - Mar 2024 
+Empulse Market Research and Data Analytics Pvt Ltd 
+• Led the development and implementation of a comprehensive Market Research & Data Analytics solution for a key Supply Chain 
+Management client, resulting in enhanced data-driven decision-making processes. 
+• Led the Development of a Time Series Forecasting Engine and company’s Data Science training material. 
+• Spearheaded Tableau Visualization tasks, creating visually compelling and insightful dashboards that provided stakeholders with 
+real-time insights into supply chain metrics, improving overall operational efficiency. 
+• Implemented Data Quality check pipelines, data preprocessing pipelines, and data transformation pipelines tailored to the unique 
+requirements of RNN and Meta-Learner models. 
+• Leveraged deep learning Recurrent Neural Network (RNN) models, alongside Metalearner ensemble techniques, to construct 
+advanced forecasting models, thereby enhancing the accuracy and robustness of predictive analytics capabilities. 
+• Provided technical leadership and mentorship to trainee team members, fostering a collaborative and innovative work 
+environment. 
+ 
+DATA SCIENTIST                                                                                                                                                  Mar 2022 - May 2023 
+TuringMinds.Ai – Soothsayer Analytics 
+• Joined TuringMinds.Ai for their comprehensive work-integrated learning program in collaboration with INSOFE gaining hands-on 
+experience and insight into industry practices while contributing to real-world projects and initiatives. 
+• Spearheaded the development of a robust Signature Detection Accelerator and Next Word Prediction Accelerator leveraging 
+cutting-edge object detection methodologies like YOLO (You Only Look Once) and Bi-Directional LSTM and NLTK in NLP. 
+• Acquired proficiency in various machine learning algorithms, including regression, classification, and clustering, through practical 
+training and projects. 
+• Conducted extensive experimentation and fine-tuning of hyperparameters to improve model accuracy and speed. 
+ 
+TRAINEE ENGINEER - Internship                                                                                                                     June 2019 - Mar 2020  
+Samtronics Data Products Ltd 
+• Was trained on technologies like CodeIgniter 3.1.10, PHP and MySQL. 
+• Worked on User Authentication and Login Forms. 
+ 
+SKILLS 
+Python, R, MySql, MongoDB, Tableau, Pandas, PyMuPDF, Numpy, Scikit-learn, Matplotlib, Seaborn, OpenCV, PyTorch, 
+Tensorflow, Keras, NLTK, Spacy, ANN, CNN, RNN, Transformers, Gen AI, LLM, LangChain, OpenAI, Docker, Jenkins, AWS, 
+Azure, Flask, Streamlit, Fast API. 
+EDUCATION 
+Master of Computer Applications                                                                                                                       July 2020 - Feb 2022 
+Jain University 
+ 
+Bachelor of Computer Applications                                                                                                                    Aug 2016 - Apr 2019 
+Surana College 
+ 
+CERTIFICATIONS 
+Post Grad Program in Computational Data Science                                                                                         Mar 2022 - Jan 2023 
+upGrad INSOFE & Case Western Reserve University 
+ 
+Tableau for Data Scientists 
+Linkedin Learning 
+ 
+Prompt Engineering for ChatGPT 
+Vanderbit Univesity - Coursera 
+ACHIEVEMENTS 
+• Guest Speaker - Fundaments of Graphic Designing & Print Media Designing - Surana College                                    Aug - 2020 
+• One of the top 3 winners in the Mid-Term Hackathon organized by INSOFE 
+
